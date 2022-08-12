@@ -1,3 +1,3 @@
 # TE-IT_Swarangi
-from Shree L.R Tiwari College Of Engineering
+from SLRTCE
 Learning Reposititory for Devops lab
